@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Okcylary",
+    "unitType": "Mounted",
+    "cost": 100,
+    "movement": 4,
+    "strength": 12,
+    "rangedStrength": 15,
+    "range": 2,
+    "requiredTech": "Horseback Riding"
+    "requiredResource": "Horses",
+    "uniqueTo": "Seljuk Empire",
+    "uniques": ["Can move after attacking"],
+    "attackSound": "horse"
+  }
+]
