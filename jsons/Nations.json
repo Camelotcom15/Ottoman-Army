@@ -4,8 +4,8 @@
     "leaderName": "Fatih Sultan Mehmet II",
     "adjective": ["Ottomans"],
     "preferredVictoryType": "Domination",
-    "innerColor": [0,0,0],
-    "outerColor": [0,205,255],
+    "innerColor": [252,221,9],
+    "outerColor": [203,32,39],
     "cities": ["Edirne","Bursa","Ankara"]
   }
 ]
