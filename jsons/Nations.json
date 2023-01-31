@@ -1,7 +1,25 @@
 [
   {
-    "leaderName": "Fatih Sultan Mehmet II",
-    "innerColor": [252,221,9],
-    "outerColor": [203,32,39],
+    "name": "The Ottomans",
+		"leaderName": "Fatih Sultan Mehmet II",
+		"adjective": ["Ottoman"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "Blessing of Alah be upon you, oh Great Leader Fatih Sultan Mehmet! Your power, wealth and generosity awe the world! Your empire began in Bithynia, a small country in Eastern Anatolia in 12th century. Taking advantage in the decline of the great Selkuj Sultanate of Rum, King Osman I of Bithynia expanded west into Anatolia.",
+		"startIntroPart2": "Mighty Sultan, heed the call of your people! Bring your empire back to the height of its power and glory and once again the world will look upon your greatness with awe and admiration! Will you accept the challenge, great emperor? Will you build an empire that will stand the test of time?",
+		"declaringWar": "Your continued insolence and failure to recognize and preeminence leads us to war.",
+		"attacked": "Good. The world shall witness the incontestable might of my armies and the glory of the Empire.",
+		"defeated": "Ruin! Ruin! My Empire becomes Iram of the Pillars, remembered only by the melancholy poets.",
+		"introduction": "From the magnificence of Edirne, the Ottoman nation greets you, stranger! I'm Sultan Mehemet, and I bestow upon you my welcome!",
+		"neutralHello": "Greetings!",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Let us do business! Would you be interested?",
+		"outerColor": [203,32,39],
+		"innerColor": [252,221,9],
+		"uniqueName": "Barbary Corsairs",
+		"uniques": ["[66]% maintenance costs <for [Water] units>","When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [50]% chance>"],
+		"cities": ["Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyabakir","Izmir","Kayseri","Malatya",
+			"Marsin","Antalya","Zonguldak","Denizli","Ordu","Mugia","Eskishehir","Inebolu","Sinop","Adana","Artuin",
+			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarhisar",
+			"Bitlis","Yalova"]
   }
 ]
