@@ -7,7 +7,7 @@ repeat: none
 NationIcons/Ottoman Army
   rotate: false
   xy: 0,0
-  size: 752,752
-  orig: 752,752
+  size: 232,220
+  orig: 232,220
   offset: 0,0
   index: -1
