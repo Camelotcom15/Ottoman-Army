@@ -1,11 +1,7 @@
 [
   {
-    "name": "Ottoman Army"
     "leaderName": "Fatih Sultan Mehmet II",
-    "adjective": ["Ottomans"],
-    "preferredVictoryType": "Domination",
     "innerColor": [252,221,9],
     "outerColor": [203,32,39],
-    "cities": ["Edirne","Bursa","Ankara"]
   }
 ]
